@@ -14,3 +14,6 @@ You should run a PostgreSQL database. I added docker-compose.yml to resources. y
 <p align="center">
   <img src="https://github.com/koksalmis/spring-jpa-demo/blob/main/src/main/resources/images/spring-data-jpa.png"/>
 </p>
+
+Note: I saw this example on [Huseyin BABAL's channel](https://www.youtube.com/watch?v=5LlPkYe_HOE) and like it, I want to create this repo to 
+collect good examples. I will add other examples about jpa when I saw good ones :)
