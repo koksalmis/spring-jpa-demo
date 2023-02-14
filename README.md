@@ -16,5 +16,5 @@ You should run a PostgreSQL database. I added docker-compose.yml to resources. y
 </p>
 
 Note: I saw these examples on [Huseyin BABAL's channel](https://www.youtube.com/watch?v=5LlPkYe_HOE)
-and like it, I want to create this repo to 
+and like it, I created this repo to 
 collect good examples. I will add other examples about jpa when I saw good ones :)
